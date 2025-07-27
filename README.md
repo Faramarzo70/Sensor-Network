@@ -113,3 +113,11 @@ See the source code in this repository for examples of sending these commands pr
 ## Licence
 
 This project is released under the [MIT Licence](LICENSE), as in the original ESP‑Now project.
+
+## Documentation
+
+For more information about the FC41D module, including a module picture, pin configuration, key features and AT commands, refer to the files in the `docs` directory of this repository:
+
+- [`FC41D_overview.md`](docs/FC41D_overview.md) – a quick overview summarizing the module’s features, advantages and typical pin assignments【311191526242340†L8-L33】【509320332217014†L915-L1021】.
+- [`fc41d_module.png`](docs/fc41d_module.png) – an illustrative diagram of the FC41D module for reference.
+- [`Quectel_FC41D_Wi‑FiBluetooth_Specification_V2.2.pdf`](docs/Quectel_FC41D_Wi-FiBluetooth_Specification_V2.2.pdf) – the official Quectel specification containing detailed electrical, radio and mechanical information about FC41D【311191526242340†L8-L33】.
